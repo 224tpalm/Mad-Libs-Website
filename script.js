@@ -5,4 +5,4 @@ var yourEXP = prompt("Enter the date in which you went to this place: ");
 var verb = prompt("Who did you go with? ");
 var pluralNoun = prompt("what was the weather? (adjective) ");
 
-document.write(yourName + " just got off a school, and for the first day of summer went to the " + occupation + ", and " + salary + " all day. " + yourEXP + " is when you went and had so much fun, " + " enjoying time with " + verb + " on this " + pluralNoun + " day.");
+document.write(yourName + " just got off school, and for the first day of summer went to the " + occupation + ", and " + salary + " all day. " + yourEXP + " is when you went and had so much fun, " + " enjoying time with " + verb + " on this " + pluralNoun + " day.");

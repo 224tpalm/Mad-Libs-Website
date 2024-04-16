@@ -1,0 +1,18 @@
+body {
+    margin: 10%;
+    color: white;
+    font-family: 'Bagel Fat One';
+    letter-spacing: 3px;
+    font-size: 50px;
+    background-image: url("background.jpg");
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
